@@ -1,0 +1,6 @@
+@BolaLibraryNowAPI_HostAddress = http://localhost:5230
+
+GET {{BolaLibraryNowAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
